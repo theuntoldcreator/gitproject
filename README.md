@@ -1,2 +1,2 @@
-# gitproject
-Created with CodeSandbox
+# git-project
+gitproject
